@@ -1,4 +1,6 @@
 {
+"API_HASH":
+"API_ID" :
     "name": "Telethon Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
     "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
